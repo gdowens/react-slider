@@ -21,8 +21,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mpowaga/react-slider.git"
-  },
-  "peerDependencies": {
-    "react": ">=0.12.1"
   }
 }
